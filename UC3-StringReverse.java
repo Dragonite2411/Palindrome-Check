@@ -1,4 +1,3 @@
-
 //version 1.0
 //author : Adnan Abdullah
 //usecase 3: Palindrome Check Using String Reverse
