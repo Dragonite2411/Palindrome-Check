@@ -1,4 +1,4 @@
-//version 1.0
+//version 5.0
 //author : Adnan Abdullah
 //usecase 5: Stack-Based Palindrome Checker
 import java.util.Stack;
